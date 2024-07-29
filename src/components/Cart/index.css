@@ -1,0 +1,41 @@
+.cart-page-container {
+  min-height: 100vh;
+}
+
+.cart-body-container {
+  flex: 1;
+}
+
+.empty-view-image {
+  width: 80%;
+  max-width: 450px;
+  margin-bottom: 25px;
+}
+
+.empty-description {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.cart-items-header {
+  padding: 25px 0;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.cart-items-header h1 {
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.remove-all-btn {
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  padding: 8px 16px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
